@@ -1575,7 +1575,7 @@ ul.dropdown li a:after {
 }
 
 .footer-logo p {
-	color: #fff;
+	color: #000000;
 	line-height: 26px;
 	font-size: 16px;
 	margin-top: 10px;
@@ -1594,7 +1594,7 @@ ul.dropdown li a:after {
 
 .social ul li a {
 	display: inline-block;
-	color: #ffffff;
+	color: #000000;
 	font-size: 20px;
 	text-align: center;
 	-webkit-transition: .5s;
@@ -1602,7 +1602,7 @@ ul.dropdown li a:after {
 }
 
 .social ul li a:hover {
-	color: #85FF7F
+	color: #000000
 }
 
 /*12.2 Footer Content*/
